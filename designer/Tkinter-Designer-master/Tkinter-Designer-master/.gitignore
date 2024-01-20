@@ -1,0 +1,16 @@
+__pycache__/
+.DS_Store
+.idea/Figma2Py.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/workspace.xml
+.vscode
+build/
+dist/
+env
+resources/
+venv/
+*.egg-info/
+*.spec
